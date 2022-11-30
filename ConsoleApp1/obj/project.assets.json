@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Tales\\Desktop\\dotnet\\CursoCSharp\\ConsoleApp1\\CursoCSharp.csproj",
+      "projectUniqueName": "C:\\Users\\Tales\\Desktop\\estudo\\C#\\c--basico-avancado\\ConsoleApp1\\CursoCSharp.csproj",
       "projectName": "CursoCSharp",
-      "projectPath": "C:\\Users\\Tales\\Desktop\\dotnet\\CursoCSharp\\ConsoleApp1\\CursoCSharp.csproj",
+      "projectPath": "C:\\Users\\Tales\\Desktop\\estudo\\C#\\c--basico-avancado\\ConsoleApp1\\CursoCSharp.csproj",
       "packagesPath": "C:\\Users\\Tales\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Tales\\Desktop\\dotnet\\CursoCSharp\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Tales\\Desktop\\estudo\\C#\\c--basico-avancado\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Tales\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -51,7 +51,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -80,7 +80,7 @@ namespace CursoCSharp.ClassesEMetodos
 
             moto2.SetMarca("Honda");
             moto2.SetModelo("CG Titan");
-            moto2.SetCilindrada(-150);
+            moto2.SetCilindrada(150);
         }
     }
 }

@@ -16,6 +16,37 @@ namespace CursoCSharp.Colecoes
             Nome = nome;
             Preco = preco;
         }
+
+        public override bool Equals(object? obj)
+        {
+            return obj is Produto produto &&
+                   Nome == produto.Nome &&
+                   Preco == produto.Preco;
+        }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Nome, Preco);
+        }
+
+        //o equals e o hashCode servem para comparar objetos
+        //se os dois são iguais ou não
+        //se esses dois métodos não forem implementados, a comparação será feita pela referencia da memoria
+        //se for feita por comparação de memoria a igualdade sempre será false
+
+        //metodo para comparar se dois objetos sãos iguais
+        //public override bool Equals(object obj)
+        //{
+        //    Produto outroProduto = (Produto)obj;
+        //    bool mesmoNome = Nome == outroProduto.Nome;
+        //    bool mesmoPreco = Preco == outroProduto.Preco;
+        //    return mesmoNome && mesmoPreco;
+        //}
+
+        //public override int GetHashCode()
+        //{
+        //   return Nome.Length;
+        //}
     }
     internal class ColecoesList
     {

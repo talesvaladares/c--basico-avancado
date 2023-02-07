@@ -7,6 +7,7 @@ using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
 using CursoCSharp.OO;
 using CursoCSharp.MetodosEFuncoes;
+using CursoCSharp.Excecoes;
 
 namespace CursoCSharp {
     class Program {
@@ -80,7 +81,7 @@ namespace CursoCSharp {
                 {"Interface - OO", Interface.Executar},
                 {"Classe Selanda - OO", ClasseSelada.Executar},
 
-                 //OO
+                 //Metodos e funções
                 {"Exemplo Lambda - Métodos e Funções", ExemploLambda.Executar},
                 {"Lambda Delegate - Métodos e Funções", LambdaDelegate.Executar},
                 {"Usando Delegate - Métodos e Funções", UsandoDelegate.Executar},
@@ -88,6 +89,9 @@ namespace CursoCSharp {
                 {"Delegates com Parametros - Métodos e Funções", DelegatesComParametros.Executar},
                 {"Metodos de Extensão - Métodos e Funções", MetodosDeExtensao.Executar},
 
+                 //Exceções
+                {"Primeira Exceção - Exceções", PrimeiraExcecao.Executar},
+                {"Exceções Personalizadas - Exceções", ExcecoesPersonalizadas.Executar },
 
 
 

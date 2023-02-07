@@ -27,7 +27,11 @@
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\Tales\\Desktop\\estudo\\C#\\c--basico-avancado\\Encapsulamento\\Encapsulamento.csproj": {
+                "projectPath": "C:\\Users\\Tales\\Desktop\\estudo\\C#\\c--basico-avancado\\Encapsulamento\\Encapsulamento.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -57,6 +61,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\Tales\\Desktop\\estudo\\C#\\c--basico-avancado\\Encapsulamento\\Encapsulamento.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Tales\\Desktop\\estudo\\C#\\c--basico-avancado\\Encapsulamento\\Encapsulamento.csproj",
+        "projectName": "Encapsulamento",
+        "projectPath": "C:\\Users\\Tales\\Desktop\\estudo\\C#\\c--basico-avancado\\Encapsulamento\\Encapsulamento.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }

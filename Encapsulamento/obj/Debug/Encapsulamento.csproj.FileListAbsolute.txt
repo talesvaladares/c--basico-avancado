@@ -1,0 +1,6 @@
+C:\Users\Tales\Desktop\estudo\C#\c--basico-avancado\Encapsulamento\bin\Debug\Encapsulamento.dll
+C:\Users\Tales\Desktop\estudo\C#\c--basico-avancado\Encapsulamento\bin\Debug\Encapsulamento.pdb
+C:\Users\Tales\Desktop\estudo\C#\c--basico-avancado\Encapsulamento\obj\Debug\Encapsulamento.csproj.AssemblyReference.cache
+C:\Users\Tales\Desktop\estudo\C#\c--basico-avancado\Encapsulamento\obj\Debug\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\Tales\Desktop\estudo\C#\c--basico-avancado\Encapsulamento\obj\Debug\Encapsulamento.dll
+C:\Users\Tales\Desktop\estudo\C#\c--basico-avancado\Encapsulamento\obj\Debug\Encapsulamento.pdb

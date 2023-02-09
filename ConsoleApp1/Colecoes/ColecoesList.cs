@@ -11,6 +11,10 @@ namespace CursoCSharp.Colecoes
         public string Nome;
         public double Preco;
 
+        public Produto()
+        {
+        }
+
         public Produto(string nome, double preco)
         {
             Nome = nome;
